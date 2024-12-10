@@ -43,7 +43,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/yourusername/greentune.git
 cd greentune
-pip install -r requirements.txt
+python3 main.py
 ```
 
 ## Future Work
